@@ -1,0 +1,15 @@
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.csproj.AssemblyReference.cache
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.csproj.CoreCompileInputs.cache
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\bin\Debug\Praktik7.2_Danu Tri_PPLG 2.exe.config
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\bin\Debug\Praktik7.2_Danu Tri_PPLG 2.exe
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\bin\Debug\Praktik7.2_Danu Tri_PPLG 2.pdb
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.exe
+D:\DANU TRI X PPLG 2\Praktik7.2_Danu Tri_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.pdb
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\bin\Debug\Praktik7.2_Danu Tri_PPLG 2.exe.config
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\bin\Debug\Praktik7.2_Danu Tri_PPLG 2.exe
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\bin\Debug\Praktik7.2_Danu Tri_PPLG 2.pdb
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.csproj.AssemblyReference.cache
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.exe.config
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.csproj.CoreCompileInputs.cache
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.exe
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\Praktik7.2_Nabil_PPLG 2\Praktik7.2_Danu Tri_PPLG 2\obj\Debug\Praktik7.2_Danu Tri_PPLG 2.pdb

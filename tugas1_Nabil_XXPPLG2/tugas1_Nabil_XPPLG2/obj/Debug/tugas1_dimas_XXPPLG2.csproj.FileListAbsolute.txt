@@ -1,0 +1,7 @@
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\obj\Debug\tugas1_dimas_XXPPLG2.csproj.AssemblyReference.cache
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\obj\Debug\tugas1_dimas_XXPPLG2.csproj.CoreCompileInputs.cache
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\bin\Debug\tugas1_dimas_XXPPLG2.exe.config
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\bin\Debug\tugas1_dimas_XXPPLG2.exe
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\bin\Debug\tugas1_dimas_XXPPLG2.pdb
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\obj\Debug\tugas1_dimas_XXPPLG2.exe
+C:\Users\Asus Vivobook\Downloads\tugas1_dimas_XXPPLG2\tugas1_dimas_XXPPLG2\obj\Debug\tugas1_dimas_XXPPLG2.pdb

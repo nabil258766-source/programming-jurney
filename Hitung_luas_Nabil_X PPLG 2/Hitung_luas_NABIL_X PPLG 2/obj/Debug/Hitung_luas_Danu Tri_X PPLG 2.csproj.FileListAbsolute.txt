@@ -1,0 +1,7 @@
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\bin\Debug\Hitung_luas_Danu Tri_X PPLG 2.exe.config
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\bin\Debug\Hitung_luas_Danu Tri_X PPLG 2.exe
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\bin\Debug\Hitung_luas_Danu Tri_X PPLG 2.pdb
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\obj\Debug\Hitung_luas_Danu Tri_X PPLG 2.csproj.AssemblyReference.cache
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\obj\Debug\Hitung_luas_Danu Tri_X PPLG 2.csproj.CoreCompileInputs.cache
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\obj\Debug\Hitung_luas_Danu Tri_X PPLG 2.exe
+D:\DANU TRI X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\Hitung_luas_Danu Tri_X PPLG 2\obj\Debug\Hitung_luas_Danu Tri_X PPLG 2.pdb

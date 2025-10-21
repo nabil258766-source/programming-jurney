@@ -1,0 +1,7 @@
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\bin\Debug\Praktik 7.1_Danu Tri.exe.config
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\bin\Debug\Praktik 7.1_Danu Tri.exe
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\bin\Debug\Praktik 7.1_Danu Tri.pdb
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\obj\Debug\Praktik 7.1_Danu Tri.csproj.AssemblyReference.cache
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\obj\Debug\Praktik 7.1_Danu Tri.csproj.CoreCompileInputs.cache
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\obj\Debug\Praktik 7.1_Danu Tri.exe
+D:\DANU TRI X PPLG 2\Praktik 7.1_Danu Tri\Praktik 7.1_Danu Tri\obj\Debug\Praktik 7.1_Danu Tri.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator_Danu Tri_X PPLG 2", "Kalkulator_Danu Tri_X PPLG 2\Kalkulator_Danu Tri_X PPLG 2.csproj", "{6C3E80B7-03EA-47B2-A13C-3C792E105ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C3E80B7-03EA-47B2-A13C-3C792E105ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3E80B7-03EA-47B2-A13C-3C792E105ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3E80B7-03EA-47B2-A13C-3C792E105ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3E80B7-03EA-47B2-A13C-3C792E105ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC9CC4F-278E-47CD-8FE2-A54A4179C5C1}
+	EndGlobalSection
+EndGlobal
