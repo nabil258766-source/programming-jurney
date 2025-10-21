@@ -1,0 +1,7 @@
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\bin\Debug\praktik_6.1_nabil_xpplg 2.exe.config
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\bin\Debug\praktik_6.1_nabil_xpplg 2.exe
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\bin\Debug\praktik_6.1_nabil_xpplg 2.pdb
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\obj\Debug\praktik_6.1_nabil_xpplg 2.csproj.AssemblyReference.cache
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\obj\Debug\praktik_6.1_nabil_xpplg 2.csproj.CoreCompileInputs.cache
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\obj\Debug\praktik_6.1_nabil_xpplg 2.exe
+C:\ProgramData\Corel\Messages\540111125_707000\EN\MessageCache1\Messages\nabil\praktik_6.1_nabil_xpplg 2\praktik_6.1_nabil_xpplg 2\obj\Debug\praktik_6.1_nabil_xpplg 2.pdb
