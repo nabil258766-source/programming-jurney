@@ -1,0 +1,17 @@
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.Form1.resources
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.Properties.Resources.resources
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.csproj.GenerateResource.cache
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.AssemblyInfoInputs.cache
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.AssemblyInfo.cs
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.csproj.CoreCompileInputs.cache
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\bin\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.exe
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\bin\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.deps.json
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\bin\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.runtimeconfig.json
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\bin\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.dll
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\bin\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.pdb
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.dll
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\refint\projekakhir_zakaria_xpplg2.dll
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.pdb
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\projekakhir_zakaria_xpplg2.genruntimeconfig.cache
+C:\Users\Asus Vivobook\Downloads\projekakhir_zakaria_xpplg2\projekakhir_zakaria_xpplg2\obj\Debug\net8.0-windows\ref\projekakhir_zakaria_xpplg2.dll

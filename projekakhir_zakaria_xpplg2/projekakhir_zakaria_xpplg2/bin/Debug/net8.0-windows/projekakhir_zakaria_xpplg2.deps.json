@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projekakhir_zakaria_xpplg2/1.0.0": {
+        "runtime": {
+          "projekakhir_zakaria_xpplg2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projekakhir_zakaria_xpplg2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
