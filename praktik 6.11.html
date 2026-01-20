@@ -3,27 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>membuat jadwal pelajaran dengan warna</title>
+    <title> Elemen datalist</title>
 </head>
 <body>
-    <h2>jadwal ppelajaran</h2>
-    <table border="1">
-        <tr bgcolor="#FFA800 ALIGN="center">
-            <td>waktu</td>
-            <td>Mata pelajaran</td>
-        </tr>
-        <tr bgcolor="skyblue">
-            <td>07.00-08.00</td>
-            <td>Matematika</td>
-        </tr>
-        <tr bgcolor="lightgreen">
-            <td>08.00-09.00</td>
-            <td>Bahasa Indonesia</td>
-        </tr>
-        <tr bgcolor="lightyellow">
-            <td>09.00-10.00</td>
-            <td>Fisika</td>
-        </tr>
-    </table>
+    <form action="/submit" method="post">
+        <label for="browser">Choose your browser from the list:</label>
+        <input list="browsers" name="browser" id="browser" />
+        <datalist id="browsers">
+            <option value="Chrome">
+            <option value="Firefox">
+            <option value="Safari">
+            <option value="Edge">
+            <option value="Opera">
+        </datalist>
+        <input type="submit" value="submit">
+    </form>
 </body>
 </html>
