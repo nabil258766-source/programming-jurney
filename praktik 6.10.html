@@ -3,23 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mewarnnai tabel</title>
+    <title>element fieldset dan legend</title>
 </head>
 <body>
-    <h2>Warna di tabel HTML </h2>
-    <table border="1">
-        <tr bgcolor="#FFA800" ALIGN="center">
-            <td>no#</td>
-            <td>daftar tutorial</td>
-        </tr>
-        <tr bgcolor="skyblue">
-            <td>1</td>
-            <td>menambahkan warna background pada css</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>membuat tabel responsve</td>
-        </tr>
-    </table>
+    <form>
+        <fieldset>
+            <legend>Informasi Pribadi</legend>
+            <label for="nama">Nama: </label>
+            <input type="text" id="nama" name="nama"><br><br>
+            <label for="email">Email: </label>
+            <input type="text" id="email" name="Email"><br><br>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Informasi Pekerjaan</legend>
+            <label for="pekerjaan">Pekerjaan: </label>
+            <input type="text" id="pekerjaan"  name="pekerjaan"><br><br>
+            <label for="perusahaan">perusahaan: </label>
+            <input type="text" id="perusahaan" name="perusahaan"><br>
+        </fieldset>
+        <br>
+        <input type="submit" value="kirim">
+    </form>
 </body>
 </html>
